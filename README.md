@@ -44,8 +44,6 @@ Calendar days are defined using the `Europe/Kyiv` timezone.
 ├── outputs/
 │   ├── final_test_metrics.csv
 │   └── logistic_regression_pipeline.joblib
-└── ai_conversation/
-    └── ai_conversation_history.pdf
 ```
 
 ## Dataset and reproducibility
@@ -458,7 +456,7 @@ The AI was used to:
 
 The workflow remained interactive. Code was run in Google Colab, actual outputs were pasted back for verification, and assumptions were corrected when they did not match the observed data.
 
-The complete AI conversation export is included in the `ai_conversation/` directory as required for the selection process.
+The complete AI conversation log is submitted separately through the Stage 2 submission form.
 
 ## Main conclusion
 
